@@ -13,8 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/youssef-karem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="youssef-karem" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/JOO91" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="JOO91" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/youssef-karem" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://codeforces.com/profile/JOO91" target="blank">
+  <img align="center" src="https://img.shields.io/badge/-Codeforces-orange?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
