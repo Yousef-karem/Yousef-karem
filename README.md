@@ -1,85 +1,143 @@
 <h1 align="center">Hi 👋, I'm Youssef Karem William</h1>
+
 <h3 align="center">
-Software Engineer · Backend Developer · Engineering Manager · Competitive Programmer (Master on Codeforces)
+Software Engineer • Backend Developer • Competitive Programmer (Codeforces Master)
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousef-karem&label=Profile%20views&color=0e75b6&style=flat" alt="yousef-karem" />
+  <img src="https://komarev.com/ghpvc/?username=Yousef-karem&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 **Computer Science student at Cairo University** (2022 – 2026)  
-- 🔭 Currently working on **Python-based AI evaluation tools, code verifiers, and automation systems at Turing**  
-- 🔧 Built the complete backend for **Sagely LMS** at *EgronX* using **Spring Boot, JWT, MySQL**  
-- 🧠 Strong background in **C++**, algorithms, and competitive programming  
-- 👨‍💻 All my projects are available here: **https://github.com/Yousef-karem**  
-- 📫 Reach me at **yousefkarem91@gmail.com**  
-- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/youssef-karem)**  
+🎓 Computer Science graduate from **Cairo University**
+
+I'm passionate about building scalable software systems, backend applications, and developer tools. I enjoy solving challenging engineering problems and applying AI where it provides practical value.
+
+- 💼 Software Engineer with industry experience at **Turing**, **Scale AI**, and **EgronX**
+- ⚙️ Interested in Backend Development, Software Architecture, and Developer Tools
+- 🏆 Codeforces **Master (Div. 1)** with 3,000+ solved problems
+- 🌱 Always learning new technologies and building real-world software
 
 ---
 
-### 🌐 Connect With Me
+## 🚀 What I'm Working On
+
+- ⚙️ Building scalable backend applications using **Spring Boot**
+- 🤖 Developing automation and evaluation systems at **Turing**
+- 🧪 Building software engineering tools powered by modern AI techniques
+- 📚 Continuously improving my problem-solving and system design skills
+
+---
+
+## 🏆 Achievements
+
+- 🏅 Top 25 — Africa & Arab Collegiate Programming Contest (ACPC 2024)
+- 🥈 20th — Egyptian Collegiate Programming Contest (ECPC 2024)
+- 🔥 Codeforces **Master (Div. 1)** — Top 10 in Egypt
+- 🧠 Solved **3,000+ algorithmic problems**
+- 👨‍🏫 Competitive Programming Coach
+- 📝 Competitive Programming Problem Setter & Tester
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 TestNexus — AI-Powered Unit Test Generation & Evaluation Platform (Graduation Project – A+)
+
+An end-to-end platform that automatically analyzes Java projects, generates unit tests, validates them, repairs compilation/runtime failures, and evaluates coverage using Large Language Models.
+
+**Highlights**
+
+- Automated JUnit test generation
+- Static code analysis using JavaParser & Soot
+- Coverage evaluation with JaCoCo
+- Local LLM inference using Ollama
+- Docker & GitHub Actions integration
+
+🔗 **Repository:**  
+https://github.com/Yousef-karem/Unit-test-demo
+
+---
+
+### ⚙️ Sagely LMS Backend
+
+Production backend developed during my internship at **EgronX**.
+
+**Highlights**
+
+- Spring Boot 3
+- JWT Authentication
+- REST APIs
+- MySQL
+- File Uploads
+- Notifications
+- Course & Assignment Management
+
+🔗 **Repository:**  
+https://github.com/Yousef-karem/Sagely_Backend_Java
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### AI & Automation
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/youssef-karem" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/youssef-karem-370670294/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://codeforces.com/profile/JOO91" target="_blank">
-    <img src="https://img.shields.io/badge/-Codeforces-orange?style=flat-square&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+
+  <a href="mailto:yousefkarem91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yousef-karem&show_icons=true&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-karem&layout=compact&hide_border=true"/>
 </p>
 
----
-
-### 🏆 Achievements
-<ul>
-  <li>🏅 Top 25 in the Africa & Arab Collegiate Programming Contest (ACPC) 2024</li>
-  <li>🏆 20th place in the Egyptian Collegiate Programming Contest (ECPC) 2024</li>
-  <li>🔥 Master (Div 1) on Codeforces — Top 10 in Egypt</li>
-</ul>
-
----
-
-### 📂 Featured Projects
-
-<h4>📘 Sagely LMS Backend (Spring Boot, MySQL, JWT) — at EgronX</h4>
-<ul>
-  <li><a href="https://github.com/Yousef-karem/Sagely_Backend_Java">Sagely_Backend_Java</a></li>
-  <li>Full-featured Learning Management System backend with authentication, courses, announcements, requirements, file uploads, and notifications.</li>
-</ul>
-
-<h4>🎓 Learning Management System (LMS Backend)</h4>
-<ul>
-  <li><a href="https://github.com/Yousef-karem/Learning-Management-System">Learning Management System</a></li>
-  <li>Backend built with Java Spring Boot and PostgreSQL, including authentication and role management.</li>
-</ul>
-
-<h4>📚 Online Library Website</h4>
-<ul>
-  <li><a href="https://github.com/Yousef-karem/Online-Library-website">Online Library Website</a></li>
-  <li>Django-based library system with book browsing, filtering, and user collections.</li>
-</ul>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousef-karem&show_icons=true&locale=en&layout=compact" alt="yousef-karem" />
+  <img src="https://streak-stats.demolab.com?user=Yousef-karem&hide_border=true"/>
 </p>
